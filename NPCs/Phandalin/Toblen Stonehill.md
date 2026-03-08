@@ -1,0 +1,7 @@
+- Yorkshire Accent (Sean Bean on that birding podcast)
+- Owner/Proprietor of The Stonehill Inn
+- New mayor of Phandalin
+- Scared of the mandate, usually gives them what they want, but not everything
+- His priority is the town and his family, but he also wants to do what's right
+- Very pragmatic, and no nonsense
+- Collaborating with the mandate to keep the town safe.
