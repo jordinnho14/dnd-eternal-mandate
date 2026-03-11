@@ -1,0 +1,4 @@
+- Rogue-like inquisitor woman
+- Dresses like a raven
+- Fond of poisons and shivs (kinda like the silent from slay the spire I suppose)
+- Used by the mandate as like an infiltrator/assassin

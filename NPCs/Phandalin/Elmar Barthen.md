@@ -1,0 +1,4 @@
+- Shopkeeper of Barthen's Provisions
+- Nice old man
+- Also the town carpenter
+- Helps fix up [[Tressendar Manor]]

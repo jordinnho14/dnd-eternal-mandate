@@ -1,0 +1,4 @@
+- The darth vader of the situation
+- Big guy, towering, thick black armour
+- Big flaming sword
+- General of the Imperator

@@ -1,0 +1,4 @@
+- Toblen's son
+- 9 years old
+- Mum died when he was 3
+- Wants to be an adventurer! Idolises the party

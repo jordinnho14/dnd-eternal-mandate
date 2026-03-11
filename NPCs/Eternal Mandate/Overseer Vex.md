@@ -1,0 +1,3 @@
+- Kinda like a big gross sludge magic guy
+- In charge of the Mandates biological experimentation
+- Runs 'processing' plants 

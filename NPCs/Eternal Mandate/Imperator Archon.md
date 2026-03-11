@@ -1,0 +1,3 @@
+ - Big dog emperor
+ - Notorious necromancer
+ - Secretly a construct of [[The Tinkerer]] 

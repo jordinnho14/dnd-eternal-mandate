@@ -5,10 +5,10 @@
 - Goes over plan, but says they have a few minutes to kill, asks about combat experience or why they joined up
 - Assault on the mortar (each round explain what they see happening below)
 - They succeed, but its a trap, Lords alliance all killed, characters knocked into the river below by the blast
-- They awake, in an inn, [[Pip]] is there with them
+- They awake, in an inn, [[Pip]] is there with them (maybe make it seem like he used some dark magic to awaken them?)
 - Intro to [[Toblen Stonehill]] (inkeep/mayor)
 	- Update on the situation
-	- Tells them about [[Phandalin]] and the surrounding area
+	- Tells them about [[Phandalin Master Doc]] and the surrounding area
 	- Brings up the unfortunate reality of their medical bills, and suggests doing the quest board to get by
 
 
@@ -25,6 +25,12 @@ Toblen doesn't know everything that's happened, just from Phandalin's point of v
 - **Ripple effects**: "But soon, the letters from Neverwinter dried up - we used to get most of our supplies out of there, and suddenly there was nothing. No post, no pigeons, nothing. We sent a messenger boy by horse there to see if he could get an idea of what was going on, but he never came back... *He shudders*... my nephew that was, good lad, gods only know what's happened to him. We got a trickle of refugees from there, telling tales of undead husks, and clockwork monsters, but I don't know what to believe.
 - **Recently**: "It was quite for a while really, times have been hard without the supplies from Neverwinter, but we've made do. That is 'til the mandate heard about the quartz mines. Some dwarven lads have been digging up quartz in the mountains somewhere, and word must have got round cause we've been seeing more and more of them mandate lads around, asking lots of questions, demanding taxes - not money mind you, odd things, copper, glass lenses and the like, and they'd keep asking if there were any Elves in town, luckily none are actually in Phandalin, but there are a lot of them in small settlements around the place. It's not like Neverwinter, here, it's big and empty and rural, tiny villages and settlements all through these hills, I can't imagine the mandate is going to have much luck taking over."
 - **Himself as mayor**: "I didn't think too much of this Eternal Mandate lot at first, but when they came asking for taxes, our old mayor told em to sling their hook, and they gunned him down in the street, with some kind of exploding crossbow thing, never seen anything the like. Anyway since then, I've taken on the duty of acting mayor, "
+
+
+#### GIVE TOBLEN A CUTE SON CALLED CARP - HAS LITTLE WOODEN SWORD AND HELMET AND WANTS TO BE AN ADVENTURER
+
+
+#### TOBLEN SHOULD BE SAD ABOUT THE TOWN, ITS GONE DOWNHILL AND LOTS OF PEOPLE HAVE LEFT, BUT IT COULD BE SO LOVELY
 
 ### Introducing the quests board
 - Toblen tells them about med bills, but agrees that they can help out around the town, as with Neverwinter being shut off, and the increasing presence of the Eternal Mandate, they could use some extra help - there's a jobs board just outside the inn at the town square, and he'll escort them out to take a look. 
@@ -44,11 +50,12 @@ Toblen doesn't know everything that's happened, just from Phandalin's point of v
     
 - **Plan B (The Stick):** * _If the players say:_ "Screw you, old man, we're Level 3 badasses. We're just going to walk out the front gate and leave." $\rightarrow$ That is when Toblen drops the hammer. _"Walk out the gate? In that Alliance armor? I've heard the mandate has set up checkpoints on the major roads and settlements. You'll need transit papers to get through, now I can help you out with that, I've got the connections, but you'll need to do something for me first.
 
-### Starting Jobs
+### Starting Jobs (or they can always go for a wander round Phandalin if they want)
 - [[Dwarven Excavation]]
 - [[Gnomengarde]]
 - [[Umbrage hill]]
 
+#### AFTER A JOB DO [[Party at the Stonehill Inn]]
 
 
 
