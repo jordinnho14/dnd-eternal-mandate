@@ -1,0 +1,3 @@
+- Has a general uncle, who belittled and pressured him into the military
+- Made a deal with a great old one to wake up the party - the Fathomless - same patron as Lin, but he fears it
+- Feels drawn to Lin, agrees with everything she says.

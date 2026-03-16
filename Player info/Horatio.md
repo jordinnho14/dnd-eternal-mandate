@@ -1,0 +1,3 @@
+- Captain who led a squad fighting an unknown enemy
+- Blacked out in combat, and woke with the squad gone
+- 

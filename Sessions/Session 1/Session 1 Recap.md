@@ -1,0 +1,5 @@
+- Successfully destroyed the mortar, but were knocked unconscious in the blast
+- Woke up in Phandalin, bit suspicious of Pip, how he was kept conscious and how he woke them up at the same time
+- Met Toblen, Halia and Toblen's son Carp
+- Agreed to help out the town
+- 

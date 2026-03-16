@@ -12,7 +12,6 @@
 - Alderleaf Farm - farm on the edge of town, run by Qelline Alderleaf
 	- Pragmatic, no-nonsense halfling farmer - has lots of gossip
 
-
 #### Abandoned Buildings (and who can fill them!)
 - Smithy - to be filled by the dwarves from [[Dwarven Excavation]]
 - Tressendar manor (Toblen gives to the players after first quest)

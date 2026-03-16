@@ -1,0 +1,3 @@
+- 1 foot pole
+- As an action you can speak a command to turn it into a 10 foot pole and back
+- It only elongates as far as the space allows

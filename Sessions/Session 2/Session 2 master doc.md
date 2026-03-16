@@ -1,0 +1,5 @@
+- First long rest - remember [[Lin's Dream]]
+- Aftermath of Umbrage Hill Quest - Adabra Gwyn moves in - Toblen finds home for Kobolds
+	- He suggests the ruins of the old [[Town Hall]] and mayor's office, there's a basement there, and maybe the Kobolds can try and rebuild it
+	- They are very excited by this!
+- Adabra opens [[Gwyn's Apothecary]]

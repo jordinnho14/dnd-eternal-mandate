@@ -1,0 +1,9 @@
+- Spell book
+- Contains:
+	- Burning hands
+	- Detect magic
+	- identify
+	- mage armour
+	- magic missile
+	- shield
+	- sleep

@@ -1,0 +1,4 @@
+- 7 Charges
+- use an action to expend 1 charge to create a harmless burst of multicoloured light at a point you can see up to 60ft away. It is accompanied by a crackling noise that can be heard 300 feet away.
+- Regains all charges at dawn
+- If all charges are expended, roll a d20, if a 1 or 2 it explodes

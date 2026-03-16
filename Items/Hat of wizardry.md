@@ -1,0 +1,2 @@
+- Requires attunement by a wizard
+- While wearing the hat, once per day you can try to cast a cantrip that you don't know. It must be on the wizard spell list, and you must make a DC arcana check

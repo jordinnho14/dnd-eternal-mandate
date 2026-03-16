@@ -29,7 +29,6 @@ Toblen doesn't know everything that's happened, just from Phandalin's point of v
 
 #### GIVE TOBLEN A CUTE SON CALLED CARP - HAS LITTLE WOODEN SWORD AND HELMET AND WANTS TO BE AN ADVENTURER
 
-
 #### TOBLEN SHOULD BE SAD ABOUT THE TOWN, ITS GONE DOWNHILL AND LOTS OF PEOPLE HAVE LEFT, BUT IT COULD BE SO LOVELY
 
 ### Introducing the quests board

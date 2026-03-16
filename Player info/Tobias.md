@@ -1,0 +1,2 @@
+- Worn downtrodden religious clothing
+- "complicated" past
