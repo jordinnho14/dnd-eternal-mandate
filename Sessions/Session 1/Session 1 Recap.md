@@ -2,4 +2,10 @@
 - Woke up in Phandalin, bit suspicious of Pip, how he was kept conscious and how he woke them up at the same time
 - Met Toblen, Halia and Toblen's son Carp
 - Agreed to help out the town
-- 
+- Went to Umbrage hill, joined up with the Manticore, Brian, and got his manticore wife Bridget killed
+	- Used Brian to distract mandate soldiers guarding the processing factory
+	- Snuck in, destroyed the cog hounds, saw the dead elves in the cage, and the kobolds feeding body parts into processing machines
+	- Freed the enslaved kobolds, and got them to join forces, then blew up the factory
+	- Took one bucket of the organic sludge run off from the processing factory
+	- Took one canister of the green chrono-vapour that the processing factory was producing
+	- Gwyn and kobolds returned to town with the party
