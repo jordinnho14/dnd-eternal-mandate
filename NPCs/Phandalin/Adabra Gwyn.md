@@ -1,0 +1,3 @@
+- Older dwarf woman
+- Herbalist and healer
+- Rescued from Manticore on Umbrage Hill (session 1)
