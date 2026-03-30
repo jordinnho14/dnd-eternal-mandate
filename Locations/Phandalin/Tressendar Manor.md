@@ -75,3 +75,10 @@ Possible Upgrades
 
 - **The Entrance:** Down in the Foyer, a brand new, double locked iron door leads into the darkness
 - **The Vibe:** If a player presses their ear to the iron door, they don't hear rats. They hear a faint, unnatural clicking sound, and they smell the sharp, metallic tang of raw, unstable magic wafting up through the floorboards.
+
+
+
+
+
+
+REMEMBER - after the battle of Phandalin, the Kobolds, gnomes and dwarves will turn this place into an airship!

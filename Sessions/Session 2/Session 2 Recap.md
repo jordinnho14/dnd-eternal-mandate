@@ -1,0 +1,11 @@
+- Kobolds went to work on The old town hall
+- Did a long rest - and did party at the Stonehill Inn
+	- Lin bonded with Carp showing him some magic
+	- Horatio won an arm-wrestling contest against a Dwarven Miner
+	- Tobias met the town farmer, Qelline Halfleaf, and offered to run a worship service to Eldath the following morning, after a long rest
+	- Asked Pip to do a recon on the dwarven excavation mission, he said that he would (he won't)
+- In the morning, took the sludge bucket and canister of green vapour to Adabra Gwyn. She analysed the sludge, and it was entirely organic matter - aka meat, but incredibly old - like a liquid fossil. She didn't know anything about the canister, but could tell that it was Gnomish in origin
+- Went to Gnomengarde
+- Made friends with Fibblestib and Dabbledob and learned about their old mentor, Cogsworth (they thought he was pretty sus)
+- Slayed the Mimic and got the loot
+- Got back to Phandalin and were given Tressendar Manor

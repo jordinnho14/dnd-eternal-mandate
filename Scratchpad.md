@@ -1,6 +1,3 @@
-Kobolds been enslaved in the 2 years between.
-Horatio knows the manticore whistle for Brian - roll a luck check (10 or higher he hears and comes in 2 rounds)
-
 Kobold names:
 	veg 
 	zrosk
@@ -16,4 +13,5 @@ Plan moving forward
 - Set up the train heist
 	- Carp is part of the cargo
 - Do the train heist (have them engage with Prefect Rictus as part of it - maybe he drops from the floating fortress?)
-- Setup for the siege of Phandalin (3 days warning, have 3 options of things they could go and get to help them with it)
+- Setup for the siege of Phandalin, led by Prefect Rictus (3 days warning, have 3 options of things they could go and get to help them with it)
+- Kobolds make Tressendar Manor an airship so they can attack Rictus' floating fortress
